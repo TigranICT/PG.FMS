@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "aMJMMb3lYE6eFVx21S5ry6ELt8TCLLMNx8Mk6e79FoolMJyIHWWb8F7t6D+olDjidG6S6ECi8AQAQq+eXbKsiw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tigra\\RiderProjects\\PG.FMS\\PG.FMS.Scraping\\PG.FMS.Scraping.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tigra\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
+    "C:\\Users\\tigra\\.nuget\\packages\\microsoft.playwright\\1.30.0\\microsoft.playwright.1.30.0.nupkg.sha512",
+    "C:\\Users\\tigra\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\tigra\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\tigra\\.nuget\\packages\\system.text.json\\7.0.0\\system.text.json.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

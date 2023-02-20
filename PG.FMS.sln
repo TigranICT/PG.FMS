@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PG.FMS.Scraping", "PG.FMS.Scraping\PG.FMS.Scraping.csproj", "{1493F73A-6BC5-464D-B4DC-6060ED8C8B1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PG.FMS.Scraping.Test", "PG.FMS.Scraping.Test\PG.FMS.Scraping.Test.csproj", "{A1F36588-5124-481D-AD41-3972DEE70D88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1493F73A-6BC5-464D-B4DC-6060ED8C8B1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1493F73A-6BC5-464D-B4DC-6060ED8C8B1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1493F73A-6BC5-464D-B4DC-6060ED8C8B1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1493F73A-6BC5-464D-B4DC-6060ED8C8B1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1F36588-5124-481D-AD41-3972DEE70D88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1F36588-5124-481D-AD41-3972DEE70D88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1F36588-5124-481D-AD41-3972DEE70D88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1F36588-5124-481D-AD41-3972DEE70D88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
